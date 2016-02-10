@@ -1,7 +1,7 @@
 name: Start Digital
 favicon: null
-layout_spectrum: 0.3328753656242043
-typography_spectrum: 0.7988392687402666
+layout_spectrum: 0.905
+typography_spectrum: 0.69307
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.07913572201505303
-  lightness: 0.20323330932296813
+  brandStrength: 0.625
+  lightness: 0.6875
   saturation: 0.6769562365952879
-  rhythmicContrast: 0.07687423145398498
+  rhythmicContrast: 0.75
 purpose: []
