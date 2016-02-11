@@ -4,8 +4,15 @@
         <description><![CDATA[Start Digital]]></description>
         <link>https://thegrid.ai/start-digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 03:38:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 03:43:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/start-digital/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>hits</p>]]></description>
+            <link>https://thegrid.ai/start-digital/hits/index.html</link>
+            <guid isPermaLink="false">9dfca288-3559-4b5e-97b5-57432f8aef20</guid>
+            <pubDate>Thu, 11 Feb 2016 03:41:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/48609/screenshots/2517661/attachments/496165/allthree.png">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.webappers.com/2016/01/26/how-to-get-website-design-and-ux-right-in-2016/</link>
             <guid isPermaLink="false">447d1411-bdbe-4838-9aac-67a885abc05f</guid>
             <pubDate>Thu, 11 Feb 2016 03:18:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c49c3380-46e3-4758-ae83-324f41a0cb44.jpg">]]></description>
-            <link>https://thegrid.ai/start-digital/41dc058d-a941-4ac4-8515-96df646e1140/index.html</link>
-            <guid isPermaLink="false">41dc058d-a941-4ac4-8515-96df646e1140</guid>
-            <pubDate>Wed, 10 Feb 2016 04:27:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
